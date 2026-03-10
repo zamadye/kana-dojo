@@ -68,5 +68,12 @@
   "english": "thank you",
   "region": "Kansai",
   "note": "Traditional gratitude expression. (Set 2)"
+},
+{
+  "dialect": "したっけ",
+  "standardJapanese": "それじゃあ",
+  "english": "well then/see you",
+  "region": "Hokkaido",
+  "note": "Transition/goodbye phrase. (Set 6)"
 }
 ]
