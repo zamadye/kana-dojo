@@ -166,13 +166,14 @@
   },
   {
     "question": "What does \"Oishii\" mean in Japanese?",
-    "correctAnswer": "Delicious",
-    "incorrectAnswers": [
+    "difficulty": "easy",
+    "answers": [
+      "Delicious",
       "Hello",
       "Thank you",
       "Goodbye"
     ],
-    "answerExplanation": "Oishii means delicious in Japanese."
+    "correctIndex": 0
   },
   {
     "question": "Which city is known for its beef brand Kobe? (Community variation 59)",
