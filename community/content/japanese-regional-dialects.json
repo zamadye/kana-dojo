@@ -131,5 +131,12 @@
     "english": "very",
     "region": "Nagoya",
     "note": "Characteristic Nagoya intensifier. (Set 1)"
+  },
+  {
+    "dialect": "よか",
+    "standardJapanese": "いい",
+    "english": "good",
+    "region": "Kyushu",
+    "note": "Common Kyushu replacement. (Set 6)"
   }
 ]
